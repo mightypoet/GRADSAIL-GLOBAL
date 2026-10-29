@@ -1,0 +1,6 @@
+{
+  "name": "Gradsail Global — Overseas Education Advisory",
+  "description": "Sail Towards Your Global Degree. Honest, student-centric overseas education advisory and university admissions guidance for the UK, Australia, Germany, Dubai, France, and South Korea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
